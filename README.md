@@ -1,2 +1,2 @@
 # u-develop-it
-Simple SQL/SQLite showcase
+Simple SQL/SQLite application 
